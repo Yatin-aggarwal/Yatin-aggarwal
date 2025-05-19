@@ -6,10 +6,10 @@
 - 💼 Open to exciting opportunities and collaborations!
 
 ## 🛠️ Skills
-- **Languages**: JavaScript, Python, Java, C++, Golang
-- **Web Development**: HTML, CSS, React, Node.js, FastApi
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, Docker, Linux
+- **Languages**: JavaScript, Python, C++, Golang
+- **Web Development**: HTML, CSS, React, Node.js, FastApi, NextJS, TailwindCSS
+- **Databases**: MySQL, MongoDB, Firebase, PineconeDB, ChromaDB, Redis
+- **Tools & Platforms**: Git, GitHub, Docker, Linux, Kafka, Pulsar, Kubernetes
 - **Other**: Data Structures, Algorithms, Problem Solving
 
 ## 🌟 Interests
@@ -20,14 +20,11 @@
 
 
 ## 📫 Let's Connect!
-- **GitHub**: [Yatin-aggarwal](https://github.com/Yatin-aggarwal)
-- **LinkedIn**: [Yatin Aggarwal](https://www.linkedin.com/in/yatin-aggarwal/)
+- **Leetcode**: [Yatin_aggarwal](https://leetcode.com/u/Yatin_aggarwal/)
+- **LinkedIn**: [Yatin-Aggarwal](https://www.linkedin.com/in/yatin-aggarwal-80291a257/)
 - **Email**: [yatin.aggarwal033@gmail.com](mailto:yatin.aggarwal033@gmail.com)
 
-## 🏆 Achievements
-- Successfully completed several projects in web development and data analysis.
-- Active contributor to open-source initiatives.
-- Always striving to learn, grow, and make a difference.
+
 
 ---
 
