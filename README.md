@@ -22,7 +22,7 @@
 ## 📫 Let's Connect!
 - **GitHub**: [Yatin-aggarwal](https://github.com/Yatin-aggarwal)
 - **LinkedIn**: [Yatin Aggarwal](https://www.linkedin.com/in/yatin-aggarwal/)
-- **Email**: [yatin@example.com](mailto:yatin.aggarwal033@gmail.com)
+- **Email**: [yatin.aggarwal033@gmail.com](mailto:yatin.aggarwal033@gmail.com)
 
 ## 🏆 Achievements
 - Successfully completed several projects in web development and data analysis.
