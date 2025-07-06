@@ -19,7 +19,7 @@
 - Participating in hackathons and coding challenges
 
  ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatin-aggarwal&show_icons=true&theme=radical" alt="Yatin's GitHub stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-aggarwal&layout=compact&theme=radical" alt="Top Languages" height="180" /> <br /> <img src="https://streak-stats.demolab.com?user=Yatin-aggarwal&theme=radical&hide_border=true" alt="GitHub Streak" height="180" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatin-aggarwal&theme=radical" alt="GitHub Contribution Graph" /> <br /> <img src="https://komarev.com/ghpvc/?username=Yatin-aggarwal&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatin-aggarwal&show_icons=true&theme=radical" alt="Yatin's GitHub stats" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-aggarwal&layout=compact&theme=radical&exclude_repo=Kaggle,Neural_Style_Transfer_Learning,Suicide-Watch-,mnist_comepetiton" /> <br /> <img src="https://streak-stats.demolab.com?user=Yatin-aggarwal&theme=radical&hide_border=true" alt="GitHub Streak" height="180" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatin-aggarwal&theme=radical" alt="GitHub Contribution Graph" /> <br /> <img src="https://komarev.com/ghpvc/?username=Yatin-aggarwal&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 
 
 ## 📫 Let's Connect!
